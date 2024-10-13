@@ -1,0 +1,13 @@
+“I want you to build<break time="2s"/> an ark—a great big boat.<break time="2s"/>
+Water will come<break time="2s"/> down from the sky.<break time="2s"/>
+The earth will<break time="2s"/> be covered with water.<break time="2s"/>
+The ark is to keep<break time="2s"/> you safe from the flood.<break time="2s"/>
+It will keep your<break time="2s"/> wife and your sons safe,<break time="2s"/>
+too.<break time="0.5s"/>
+It will hold all the<break time="2s"/> people who want to come in.<break time="2s"/>
+Anyone who is in the ark<break time="2s"/> will be saved from the flood.<break time="2s"/>
+
+Noah was surprised! A big boat on dry land!<break time="2s"/> Water from the sky! It had never rained before.<break time="2s"/>
+
+He was surprised again when God told<break time="2s"/> him how big the boat should be.<break time="2s"/>
+It was to<break time="2s"/> be very big.<break time="2s"/>

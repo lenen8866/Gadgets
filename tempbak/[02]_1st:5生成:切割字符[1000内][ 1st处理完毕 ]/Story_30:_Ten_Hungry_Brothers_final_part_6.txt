@@ -1,0 +1,6 @@
+Guards took one brother,<break time="1.3s"/>
+Simeon,<break time="0.5s"/>
+to prison.<break time="1s"/>
+Joseph’s servants filled the<break time="2s"/> brothers’ sacks with grain.<break time="2s"/>
+He told one servant to put all of the brothers’<break time="2s"/> money back in their sacks on top of the grain.<break time="2s"/>
+

@@ -1,0 +1,7 @@
+The story was finished.<break time="1.3s"/>
+The people started down<break time="2s"/> the road towards home.<break time="2s"/>
+Ever after,<break time="1s"/>
+when they looked at houses,<break time="1.8s"/>
+they remembered the story<break time="2s"/> of the two houses,<break time="2s"/>
+and they understood<break time="2s"/> what Jesus meant.<break time="2s"/>
+

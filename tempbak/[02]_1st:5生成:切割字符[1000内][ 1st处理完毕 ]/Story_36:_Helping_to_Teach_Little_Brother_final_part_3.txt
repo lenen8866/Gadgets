@@ -1,0 +1,19 @@
+He was twelve years old.<break time="1.8s"/>
+It was time for him<break time="2s"/> to go away to the palace.<break time="2s"/>
+The family would<break time="2s"/> miss him very much.<break time="2s"/>
+Moses would miss his family,<break time="1.8s"/>
+too.<break time="0.5s"/>
+But he was brave.<break time="1.3s"/>
+He knew God would<break time="2s"/> take care of him.<break time="2s"/>
+
+Before Moses left,<break time="1s"/>
+the family prayed.<break time="1s"/>
+They thanked God for letting<break time="2s"/> them have Moses for twelve years.<break time="2s"/>
+Mother Jochabed prayed.<break time="1s"/>
+
+Father Amram prayed.<break time="1s"/>
+Moses prayed too.<break time="1s"/>
+He needed God<break time="2s"/> to be near him.<break time="2s"/>
+God would help him<break time="2s"/> to do the right things.<break time="2s"/>
+He promised to<break time="2s"/> love God always.<break time="2s"/>
+

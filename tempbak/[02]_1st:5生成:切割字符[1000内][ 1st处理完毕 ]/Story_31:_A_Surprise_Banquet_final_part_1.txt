@@ -1,0 +1,15 @@
+<break time="0.5s"/>The brothers left<break time="2s"/> Egypt in a hurry.<break time="2s"/>
+When they stopped for the night<break time="2s"/> one of the brothers opened his sack.<break time="2s"/>
+There was his money! “How did<break time="2s"/> your money get there?” the brothers asked.<break time="2s"/>
+They were afraid.<break time="1s"/>
+Then they all found<break time="2s"/> money in their sacks.<break time="2s"/>
+
+When they got home they<break time="2s"/> told Jacob all that had happened.<break time="2s"/>
+Jacob was sad.<break time="1s"/>
+“My son Benjamin shall<break time="2s"/> not go to Egypt,<break time="2s"/>
+” he said.<break time="1s"/>
+“His brother Joseph is dead.<break time="1.8s"/>
+If anything happens to Benjamin,<break time="1.8s"/>
+I will die.<break time="1s"/>
+
+It was good to have the<break time="2s"/> food the brothers had brought from Egypt,<break time="2s"/>

@@ -1,0 +1,17 @@
+<break time="0.5s"/>Shh! Don’t tell<break time="2s"/> anyone! It’s a secret.<break time="2s"/>
+Did you ever have a secret? Miriam<break time="2s"/> was a little girl who had a secret.<break time="2s"/>
+She was twelve years old and lived<break time="2s"/> in a little mud-brick house in Egypt.<break time="2s"/>
+Her father,<break time="1s"/>
+Amram,<break time="0.5s"/>
+knew the secret.<break time="1s"/>
+Her mother,<break time="1s"/>
+Jochabed,<break time="0.5s"/>
+knew the secret too.<break time="1.3s"/>
+Even her little brother,<break time="1.3s"/>
+Aaron,<break time="0.5s"/>
+knew about it.<break time="1s"/>
+The secret was<break time="2s"/> a happy one.<break time="2s"/>
+There was a new baby brother in<break time="2s"/> their house! The baby’s name was Moses.<break time="2s"/>
+But the secret<break time="2s"/> made the family afraid.<break time="2s"/>
+
+A new Pharaoh was<break time="2s"/> the king of Egypt.<break time="2s"/>

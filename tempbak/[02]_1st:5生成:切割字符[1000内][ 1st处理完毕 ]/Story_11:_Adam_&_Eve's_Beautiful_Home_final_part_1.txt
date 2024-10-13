@@ -1,0 +1,14 @@
+<break time="0.5s"/>Adam and Eve lived<break time="2s"/> in the Garden of Eden.<break time="2s"/>
+The beautiful garden<break time="2s"/> home had the bright,<break time="2s"/>
+sunny sky for a roof.<break time="1.8s"/>
+It had thick green<break time="2s"/> grass for a carpet,<break time="2s"/>
+and tall,<break time="1s"/>
+strong trees for the walls.<break time="1.8s"/>
+It was fun to live<break time="2s"/> and work in the garden.<break time="2s"/>
+
+Adam and Eve liked to<break time="2s"/> learn about all the animals.<break time="2s"/>
+They might have had<break time="2s"/> rides on horses and elephants.<break time="2s"/>
+All the animals<break time="2s"/> were tame and friendly.<break time="2s"/>
+The birds were building their<break time="2s"/> nests and singing happy songs.<break time="2s"/>
+They were not afraid<break time="2s"/> of Adam and Eve.<break time="2s"/>
+

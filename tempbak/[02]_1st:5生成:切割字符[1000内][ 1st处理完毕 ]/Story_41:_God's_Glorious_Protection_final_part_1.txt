@@ -1,0 +1,20 @@
+<break time="0.5s"/>The people walked<break time="2s"/> for two days.<break time="2s"/>
+They were tired,<break time="1s"/>
+but they were free.<break time="1.3s"/>
+And they were happy.<break time="1.3s"/>
+
+Night was coming again.<break time="1.3s"/>
+It was time<break time="2s"/> to stop walking.<break time="2s"/>
+It was time to rest.<break time="1.8s"/>
+Fathers put up tents.<break time="1.3s"/>
+Mothers cooked food.<break time="1s"/>
+The people were<break time="2s"/> ready to sleep.<break time="2s"/>
+The sun went down.<break time="1.3s"/>
+It was getting dark.<break time="1.3s"/>
+It was getting cold,<break time="1.3s"/>
+too.<break time="0.5s"/>
+
+Then something wonderful happened.<break time="1.3s"/>
+Everyone stopped what<break time="2s"/> they were doing.<break time="2s"/>
+They looked up<break time="2s"/> into the sky.<break time="2s"/>
+There was a long<break time="2s"/> cloud like a pillar.<break time="2s"/>

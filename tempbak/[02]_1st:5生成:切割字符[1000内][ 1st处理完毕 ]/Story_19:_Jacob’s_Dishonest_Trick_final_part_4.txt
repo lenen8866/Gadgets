@@ -1,0 +1,23 @@
+” Jacob said.<break time="1s"/>
+
+“Come here,<break time="1s"/>
+let me feel you.<break time="1.3s"/>
+I want to be<break time="2s"/> sure you are Esau.<break time="2s"/>
+” Jacob came nearer,<break time="1.3s"/>
+and Isaac felt<break time="2s"/> his hands and neck.<break time="2s"/>
+“The voice sounds like Jacob,<break time="1.8s"/>
+but you feel like Esau.<break time="1.8s"/>
+
+Jacob said,<break time="1s"/>
+“I am.<break time="1s"/>
+
+Then Isaac said,<break time="1s"/>
+“Bring me the food.<break time="1.3s"/>
+I will eat it and<break time="2s"/> then I will bless you.<break time="2s"/>
+
+After Isaac had eaten,<break time="1.3s"/>
+he said,<break time="1s"/>
+“Come near and give<break time="2s"/> me the blessing kiss.<break time="2s"/>
+” After Jacob kissed him,<break time="1.8s"/>
+the Spirit of God gave Isaac words<break time="2s"/> to speak that could never be changed.<break time="2s"/>
+After Isaac had finished,<break time="1.3s"/>

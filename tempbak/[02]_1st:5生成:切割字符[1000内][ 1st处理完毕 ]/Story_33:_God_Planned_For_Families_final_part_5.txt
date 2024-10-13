@@ -1,0 +1,8 @@
+“I’m afraid something bad will<break time="2s"/> happen to my little brother.<break time="2s"/>
+
+Mother hugged Miriam.<break time="1s"/>
+“We must do our<break time="2s"/> best to save Moses,<break time="2s"/>
+” she said,<break time="1s"/>
+“God loves him too.<break time="1.3s"/>
+He will send angels<break time="2s"/> to watch over him.<break time="2s"/>
+

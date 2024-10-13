@@ -1,0 +1,17 @@
+<break time="0.5s"/>On the third day,<break time="1.3s"/>
+God made the new world very<break time="2s"/> beautiful for the people He would make.<break time="2s"/>
+He made dry land.<break time="1.3s"/>
+He put the waters<break time="2s"/> in seas and lakes,<break time="2s"/>
+and in rivers and streams.<break time="1.8s"/>
+
+Then God spoke again.<break time="1.3s"/>
+"Let grass and flowers and<break time="2s"/> trees grow on the earth.<break time="2s"/>
+" Right away,<break time="1s"/>
+green grass covered<break time="2s"/> the brown earth.<break time="2s"/>
+Flowers filled the<break time="2s"/> world with color.<break time="2s"/>
+There were trees of<break time="2s"/> all shapes and sizes.<break time="2s"/>
+There was fruit on<break time="2s"/> many of the trees.<break time="2s"/>
+Vegetables were growing for<break time="2s"/> the people to eat.<break time="2s"/>
+
+Evening came.<break time="1s"/>
+The third day was done.<break time="1.8s"/>

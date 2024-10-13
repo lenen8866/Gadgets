@@ -1,0 +1,6 @@
+The earth was<break time="2s"/> becoming a beautiful place.<break time="2s"/>
+
+Evening came.<break time="1s"/>
+The fifth day was done.<break time="1.8s"/>
+God saw that His<break time="2s"/> work was very good.<break time="2s"/>
+

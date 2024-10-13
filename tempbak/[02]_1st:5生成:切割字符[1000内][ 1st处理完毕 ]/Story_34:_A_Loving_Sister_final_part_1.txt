@@ -1,0 +1,16 @@
+<break time="0.5s"/>It was very<break time="2s"/> early in the morning.<break time="2s"/>
+It was dark.<break time="1s"/>
+It was so dark that<break time="2s"/> some stars were still shining.<break time="2s"/>
+Jochabed held her little<break time="2s"/> son Moses in her arms.<break time="2s"/>
+Miriam carried the basket.<break time="1.3s"/>
+
+They opened the door<break time="2s"/> and left their little house.<break time="2s"/>
+They tiptoed through the<break time="2s"/> narrow streets of the village.<break time="2s"/>
+They walked quietly<break time="2s"/> across a field.<break time="2s"/>
+Then they walked along the<break time="2s"/> side of the River Nile.<break time="2s"/>
+
+“This is a good place,<break time="1.8s"/>
+” Mother whispered.<break time="1s"/>
+They stopped.<break time="1s"/>
+Miriam opened the basket.<break time="1.3s"/>
+Mother put the sleeping<break time="2s"/> baby on the pillow inside.<break time="2s"/>

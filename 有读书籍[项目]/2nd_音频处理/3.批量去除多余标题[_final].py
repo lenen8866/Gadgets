@@ -40,6 +40,6 @@ def batch_rename_files(directory, keywords):
                 print(f"文件重命名为: {new_file_path}")
 
 # 示例用法
-input_directory = '../../tempbak/[03]_2nd:2生成:完整音频mp3'
+input_directory = '../../tempbak/[03]_2nd:2生成:完整音频mp3[放Lrc文件]'
 batch_rename_files(input_directory, keywords_to_remove)
 print("批量重命名完成。")

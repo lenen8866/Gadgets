@@ -1,0 +1,21 @@
+” someone shouted back.<break time="1.3s"/>
+
+“Jesus,<break time="0.5s"/>
+the Teacher,<break time="1s"/>
+
+Quickly Zacchaeus closed his booth.<break time="1.8s"/>
+He ran to the crowd.<break time="1.8s"/>
+“Why am I<break time="2s"/> so short?” he said.<break time="2s"/>
+“I wish I were taller.<break time="1.8s"/>
+” Even standing on tiptoes,<break time="1.8s"/>
+he could not see Jesus.<break time="1.8s"/>
+“I must see<break time="2s"/> the Teacher!” Zacchaeus shouted.<break time="2s"/>
+When people saw it<break time="2s"/> was the tax collector,<break time="2s"/>
+they stood closer<break time="2s"/> together than ever.<break time="2s"/>
+“Let me through,<break time="1s"/>
+please,<break time="0.5s"/>
+” he begged.<break time="1s"/>
+No one listened to him.<break time="1.8s"/>
+
+The crowd moved<break time="2s"/> slowly down the street.<break time="2s"/>
+Zacchaeus was not<break time="2s"/> going to give up.<break time="2s"/>

@@ -1,0 +1,14 @@
+<break time="0.5s"/>Esau was very angry when he<break time="2s"/> found out Jacob had tricked his father.<break time="2s"/>
+Isaac had given the<break time="2s"/> birthright blessing to Jacob.<break time="2s"/>
+“I will hurt<break time="2s"/> Jacob for this,<break time="2s"/>
+” he said.<break time="1s"/>
+
+Rebekah found out<break time="2s"/> about Esau’s angry words.<break time="2s"/>
+She called Jacob to her.<break time="1.8s"/>
+“My son,<break time="1s"/>
+” she said,<break time="1s"/>
+“Your brother wants<break time="2s"/> to hurt you.<break time="2s"/>
+Go away quickly to<break time="2s"/> my brother’s house in Haran.<break time="2s"/>
+When Esau gets<break time="2s"/> over his anger,<break time="2s"/>
+I will send someone to tell<break time="2s"/> you to come back to me.<break time="2s"/>
+” Jacob said<break time="2s"/> good-bye to his father.<break time="2s"/>

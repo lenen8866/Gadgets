@@ -6,8 +6,7 @@ from essays_Story import essays  # 确保 essays_data 已正确导入
 def create_html_file(
     title_en, title_cn, intro_text, word_list, translation=None,
     poem_en=None, poem_cn=None, memory_gem_en=None, memory_gem_cn=None,
-    file_name=None, base_audio_path=None
-):
+    file_name=None, base_audio_path=None):
     # 定义音频文件路径
     audio_file_path = f"{base_audio_path}/{title_en.replace(' ', '_')}.mp3"
 
@@ -148,6 +147,6 @@ def generate_html_files_in_batches(base_dir, base_audio_path):
         )
 
 # 调用批量生成函数
-target_directory = '/Users/jianxinwei/Pycharm/书本朗读[英语]/holybible故事书/html/books/school/Growing_in_faith_and_charcter/list_html'
+target_directory = "/Users/jianxinwei/Github/text/books_mate/holybible故事书/html/books/school/Growing_in_faith_and_charcter/list_html"
 audio_directory = '../mp3'
 generate_html_files_in_batches(target_directory, audio_directory)

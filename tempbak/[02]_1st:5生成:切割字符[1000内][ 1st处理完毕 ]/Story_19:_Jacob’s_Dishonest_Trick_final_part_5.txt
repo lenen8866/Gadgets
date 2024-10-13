@@ -1,0 +1,25 @@
+Jacob left the tent.<break time="1.3s"/>
+
+A little later,<break time="1s"/>
+Esau came into<break time="2s"/> Isaac’s tent with food.<break time="2s"/>
+“Here I am,<break time="1s"/>
+Father,<break time="0.5s"/>
+” he said.<break time="1s"/>
+“I have your favorite food.<break time="1.8s"/>
+Eat it now<break time="2s"/> and bless me.<break time="2s"/>
+
+“Who are you?”<break time="2s"/> Isaac cried out.<break time="2s"/>
+
+“Why,<break time="0.5s"/>
+Father,<break time="0.5s"/>
+I am your son Esau.<break time="1.8s"/>
+
+Esau had not<break time="2s"/> cared about the birthright.<break time="2s"/>
+Years ago he had agreed to give<break time="2s"/> it to Jacob for a pot of food.<break time="2s"/>
+But now he<break time="2s"/> wanted it very much.<break time="2s"/>
+
+“Please bless me,<break time="1s"/>
+Father! Bless me,<break time="1s"/>
+too!” Esau cried.<break time="1s"/>
+
+Isaac reached out<break time="2s"/> to Esau and said,<break time="2s"/>

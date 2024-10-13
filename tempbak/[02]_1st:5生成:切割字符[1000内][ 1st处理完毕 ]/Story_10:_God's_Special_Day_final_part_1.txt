@@ -1,0 +1,14 @@
+<break time="0.5s"/>The sun was<break time="2s"/> setting in the west.<break time="2s"/>
+The sixth day was over<break time="2s"/> and the seventh day was beginning.<break time="2s"/>
+God was finished<break time="2s"/> making this world.<break time="2s"/>
+It was time<break time="2s"/> for a big celebration.<break time="2s"/>
+The angel choir sang<break time="2s"/> beautiful music to praise God.<break time="2s"/>
+
+God rested on<break time="2s"/> the seventh day.<break time="2s"/>
+He blessed the day<break time="2s"/> and made it special.<break time="2s"/>
+He called it the Sabbath.<break time="1.8s"/>
+It was always to<break time="2s"/> be a rest day.<break time="2s"/>
+It was to be a day to<break time="2s"/> enjoy all the things that God had made.<break time="2s"/>
+It was a<break time="2s"/> day to worship God,<break time="2s"/>
+the Creator.<break time="1s"/>
+

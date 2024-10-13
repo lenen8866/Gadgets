@@ -1,0 +1,21 @@
+Then she gave Jacob some<break time="2s"/> of Esau’s clothes to put on.<break time="2s"/>
+Rebekah took some skins from<break time="2s"/> the little goats Jacob had brought.<break time="2s"/>
+She put them on Jacob’s<break time="2s"/> arms and around his neck.<break time="2s"/>
+Then she sent him with<break time="2s"/> the food to his father’s tent.<break time="2s"/>
+
+“Here I am,<break time="1s"/>
+Father,<break time="0.5s"/>
+” Jacob said,<break time="1s"/>
+trying to talk like Esau.<break time="1.8s"/>
+
+“Which son are<break time="2s"/> you?” Isaac asked.<break time="2s"/>
+
+“I am Esau,<break time="1s"/>
+” Jacob lied.<break time="1s"/>
+“Here is your favorite<break time="2s"/> food you asked for.<break time="2s"/>
+Sit up and eat it.<break time="1.8s"/>
+Then bless me.<break time="1s"/>
+
+“How come you found the<break time="2s"/> deer so fast?” Isaac asked.<break time="2s"/>
+
+“God helped me<break time="2s"/> to find it fast,<break time="2s"/>

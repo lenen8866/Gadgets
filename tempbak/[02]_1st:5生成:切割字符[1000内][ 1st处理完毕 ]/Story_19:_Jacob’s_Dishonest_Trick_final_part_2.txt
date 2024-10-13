@@ -1,0 +1,21 @@
+” She told Jacob<break time="2s"/> about his father’s plan.<break time="2s"/>
+
+“Go choose two little goats,<break time="1.8s"/>
+” she said.<break time="1s"/>
+“Bring them to me.<break time="1.3s"/>
+I will cook them<break time="2s"/> and make Isaac’s favorite food.<break time="2s"/>
+Then you can take<break time="2s"/> the food to him.<break time="2s"/>
+He will eat<break time="2s"/> it and bless you.<break time="2s"/>
+
+“But,<break time="0.5s"/>
+Mother,<break time="0.5s"/>
+” said Jacob,<break time="1s"/>
+“I can’t fool Father.<break time="1.3s"/>
+Esau is a<break time="2s"/> very hairy man,<break time="2s"/>
+and my skin is smooth.<break time="1.8s"/>
+Father will know<break time="2s"/> who I am.<break time="2s"/>
+
+“Do not worry,<break time="1s"/>
+” Rebekah said,<break time="1s"/>
+“for I have a plan.<break time="1.8s"/>
+” She cooked<break time="2s"/> the food for Isaac.<break time="2s"/>

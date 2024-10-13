@@ -1,0 +1,17 @@
+“Noah is a<break time="2s"/> crazy old man,<break time="2s"/>
+” the people were saying.<break time="1.8s"/>
+“Yes,<break time="0.5s"/>
+he thinks this heavy<break time="2s"/> boat will float on water.<break time="2s"/>
+
+Suddenly the joking<break time="2s"/> and fun stopped.<break time="2s"/>
+People looked toward<break time="2s"/> the hills and forests.<break time="2s"/>
+Animals were coming.<break time="1s"/>
+Farm animals were coming.<break time="1.3s"/>
+Wild animals were coming,<break time="1.3s"/>
+too.<break time="0.5s"/>
+
+The animals walked<break time="2s"/> to the ark.<break time="2s"/>
+Then up the ramp they went and<break time="2s"/> into the ark through the big door.<break time="2s"/>
+The wild animals and the<break time="2s"/> tame animals walked side by side.<break time="2s"/>
+Male and female animals came.<break time="1.8s"/>
+Two of some animals<break time="2s"/> came and seven of others.<break time="2s"/>

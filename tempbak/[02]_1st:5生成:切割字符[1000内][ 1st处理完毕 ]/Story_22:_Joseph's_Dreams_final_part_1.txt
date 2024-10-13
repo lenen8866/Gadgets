@@ -1,0 +1,18 @@
+<break time="0.5s"/>One night Joseph<break time="2s"/> had a strange dream.<break time="2s"/>
+He woke up in<break time="2s"/> the morning thinking about it.<break time="2s"/>
+He did not know that an<break time="2s"/> angel had given him the dream.<break time="2s"/>
+
+Joseph told his<break time="2s"/> brothers about it.<break time="2s"/>
+“Listen to my dream,<break time="1.3s"/>
+” he said.<break time="1s"/>
+“It’s about you! I dreamed<break time="2s"/> we were working in the field.<break time="2s"/>
+We were tying<break time="2s"/> the grain into bundles.<break time="2s"/>
+
+“No,<break time="0.5s"/>
+what?” the brothers asked.<break time="1.3s"/>
+
+“Well,<break time="0.5s"/>
+suddenly my bundle stood straight up! Then all<break time="2s"/> your bundles stood up and bowed to mine.<break time="2s"/>
+
+The brothers were angry.<break time="1.3s"/>
+They all began<break time="2s"/> to talk at once.<break time="2s"/>

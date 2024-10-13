@@ -1,0 +1,18 @@
+“We have each<break time="2s"/> had a dream,<break time="2s"/>
+” they said.<break time="1s"/>
+“We don’t know<break time="2s"/> what our dreams mean.<break time="2s"/>
+
+Dreams! Joseph thought<break time="2s"/> of his two dreams.<break time="2s"/>
+“My God,<break time="1s"/>
+the God of heaven,<break time="1.3s"/>
+can give the<break time="2s"/> meanings of dreams,<break time="2s"/>
+” Joseph said.<break time="1s"/>
+“Tell me your dreams.<break time="1.3s"/>
+
+The butler said,<break time="1s"/>
+“In my dream I saw<break time="2s"/> a grapevine with three branches.<break time="2s"/>
+There were grapes<break time="2s"/> on the branches.<break time="2s"/>
+I picked the grapes and<break time="2s"/> squeezed them into Pharaoh’s cup.<break time="2s"/>
+Then I gave the juice<break time="2s"/> to the king to drink.<break time="2s"/>
+” The butler looked<break time="2s"/> at Joseph for an answer.<break time="2s"/>
+

@@ -1,0 +1,18 @@
+“I have an<break time="2s"/> idea!” he said.<break time="2s"/>
+“Let’s sell Joseph<break time="2s"/> for a slave.<break time="2s"/>
+Then we’ll get some money.<break time="1.8s"/>
+Joseph won’t die.<break time="1s"/>
+After all,<break time="1s"/>
+he is our brother.<break time="1.3s"/>
+
+“That’s a good<break time="2s"/> idea!” said another brother.<break time="2s"/>
+“Joseph must never<break time="2s"/> see Father again.<break time="2s"/>
+He would tell on us.<break time="1.8s"/>
+We must get<break time="2s"/> rid of him.<break time="2s"/>
+
+They hurried to the<break time="2s"/> well and pulled Joseph out.<break time="2s"/>
+The camels were<break time="2s"/> getting very near now.<break time="2s"/>
+The brothers waved<break time="2s"/> for them to stop.<break time="2s"/>
+
+When Joseph heard what his<break time="2s"/> brothers were planning to do,<break time="2s"/>
+he started to cry again.<break time="1.8s"/>

@@ -156,7 +156,7 @@ def execute_steps(input_directory, output_directory):
 
 # 示例用法：指定输入目录和输出目录
 
-input_directory = "/Users/jianxinwei/Pycharm/书本朗读[英语]/holybible故事书/html/books/school/Growing_in_faith_and_charcter/list_html/1-48"
+input_directory = "/Users/jianxinwei/Github/text/books_mate/holybible故事书/html/books/school/Growing_in_faith_and_charcter/list_html"
 output_directory = "../../tempbak/[01]_1st:3生成:转音频<Speak>"  # 输出文件夹路径
 
 # 执行第一步和第二步处理

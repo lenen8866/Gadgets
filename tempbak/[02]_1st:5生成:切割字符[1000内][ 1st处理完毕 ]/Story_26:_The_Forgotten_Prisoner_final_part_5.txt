@@ -1,0 +1,13 @@
+Birds came and ate<break time="2s"/> the cakes from the basket.<break time="2s"/>
+
+Joseph felt sad when he told<break time="2s"/> the baker what his dream meant.<break time="2s"/>
+“In three days you will<break time="2s"/> be called back to the palace,<break time="2s"/>
+too,<break time="0.5s"/>
+” Joseph told the baker.<break time="1.8s"/>
+“But the king will not<break time="2s"/> take you back to work.<break time="2s"/>
+
+Three days later,<break time="1s"/>
+the two dreams came true.<break time="1.8s"/>
+It happened just as<break time="2s"/> Joseph said it would.<break time="2s"/>
+But the butler<break time="2s"/> forgot about Joseph.<break time="2s"/>
+

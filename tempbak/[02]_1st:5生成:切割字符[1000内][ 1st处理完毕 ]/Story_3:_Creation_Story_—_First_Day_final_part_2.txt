@@ -1,0 +1,17 @@
+"Let there be light.<break time="1.3s"/>
+" Then there was light.<break time="1.8s"/>
+God used His great power<break time="2s"/> to make the light to shine.<break time="2s"/>
+
+Right then,<break time="1s"/>
+everything on this<break time="2s"/> earth got started.<break time="2s"/>
+The day passed.<break time="1s"/>
+The evening came.<break time="1s"/>
+It was the first day.<break time="1.8s"/>
+God liked the light<break time="2s"/> that He had made.<break time="2s"/>
+
+When God made light,<break time="1.3s"/>
+the colors were made,<break time="1.3s"/>
+too.<break time="0.5s"/>
+When there is no light,<break time="1.8s"/>
+there is no color.<break time="1.3s"/>
+

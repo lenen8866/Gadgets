@@ -1,0 +1,17 @@
+Then when that time comes<break time="2s"/> there will be food for all.<break time="2s"/>
+
+Pharaoh felt better now.<break time="1.3s"/>
+This young man<break time="2s"/> knew what to do.<break time="2s"/>
+The king and his helpers chose Joseph<break time="2s"/> to be the one to store up food.<break time="2s"/>
+
+“No one is<break time="2s"/> wiser than you.<break time="2s"/>
+I am making you<break time="2s"/> the governor of Egypt,<break time="2s"/>
+” the king told Joseph.<break time="1.8s"/>
+“Only I,<break time="1s"/>
+Pharaoh,<break time="0.5s"/>
+will be higher than you.<break time="1.8s"/>
+You will be the one to keep the<break time="2s"/> people of Egypt from starving when the famine comes.<break time="2s"/>
+
+Joseph couldn’t believe it.<break time="1.3s"/>
+Had he heard Pharaoh right? He<break time="2s"/> was not a slave any more.<break time="2s"/>
+He did not have<break time="2s"/> to go back to prison.<break time="2s"/>

@@ -1,0 +1,18 @@
+too.<break time="0.5s"/>
+
+While Eliezer was still praying,<break time="1.8s"/>
+a lovely young woman<break time="2s"/> came to the well.<break time="2s"/>
+She filled her<break time="2s"/> pitcher with water.<break time="2s"/>
+Then Eliezer asked<break time="2s"/> her for a drink.<break time="2s"/>
+“Yes,<break time="0.5s"/>
+” she said,<break time="1s"/>
+“and I’ll give<break time="2s"/> water to your camels,<break time="2s"/>
+too.<break time="0.5s"/>
+
+“How quickly God has answered<break time="2s"/> my prayer!” Eliezer was thinking.<break time="2s"/>
+
+The young woman said<break time="2s"/> that her name was Rebekah.<break time="2s"/>
+She told Eliezer that<break time="2s"/> Abraham’s brother was her grandfather.<break time="2s"/>
+“And there is room at<break time="2s"/> our house for you to stay,<break time="2s"/>
+” she said.<break time="1s"/>
+

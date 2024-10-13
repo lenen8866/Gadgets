@@ -1,0 +1,19 @@
+” Moses quickly<break time="2s"/> took off his shoes.<break time="2s"/>
+He covered his<break time="2s"/> face in reverence.<break time="2s"/>
+
+God spoke again.<break time="1s"/>
+“I have seen the troubles<break time="2s"/> of the Israelite people in Egypt.<break time="2s"/>
+I have heard their prayers.<break time="1.8s"/>
+I will bring my people out<break time="2s"/> of Egypt to a good land.<break time="2s"/>
+Moses,<break time="0.5s"/>
+I have chosen you to<break time="2s"/> lead the people out of Egypt.<break time="2s"/>
+Go to the new Pharaoh and<break time="2s"/> tell him to let My people go.<break time="2s"/>
+
+“Who am I?”<break time="2s"/> Moses asked God.<break time="2s"/>
+“I am only<break time="2s"/> a poor shepherd.<break time="2s"/>
+I am not the<break time="2s"/> one to help the people.<break time="2s"/>
+
+“Don’t be afraid,<break time="1s"/>
+” God said.<break time="1s"/>
+“I will be with you.<break time="1.8s"/>
+

@@ -1,0 +1,9 @@
+Then he decided to go<break time="2s"/> back to his home in Canaan.<break time="2s"/>
+His mother had died,<break time="1.3s"/>
+but his father<break time="2s"/> was still alive.<break time="2s"/>
+
+Jacob was afraid of<break time="2s"/> meeting his brother Esau.<break time="2s"/>
+Before they met,<break time="1s"/>
+Jacob prayed all night.<break time="1.3s"/>
+The next morning Esau forgave him<break time="2s"/> and the brothers were friends again.<break time="2s"/>
+

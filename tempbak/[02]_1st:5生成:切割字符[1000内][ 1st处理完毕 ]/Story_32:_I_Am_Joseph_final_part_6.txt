@@ -1,0 +1,3 @@
+He lived a<break time="2s"/> long time after this.<break time="2s"/>
+The years he lived in Egypt near<break time="2s"/> Joseph were the happiest years of his life.<break time="2s"/>
+

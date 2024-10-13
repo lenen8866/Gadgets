@@ -1,0 +1,13 @@
+<break time="0.5s"/>God told Adam and Eve that they could eat<break time="2s"/> fruit from all the trees in the garden except one.<break time="2s"/>
+God told them they would die<break time="2s"/> if they ate from the forbidden tree.<break time="2s"/>
+
+One day Eve was<break time="2s"/> near the forbidden tree.<break time="2s"/>
+She looked at the<break time="2s"/> beautiful fruit on the tree.<break time="2s"/>
+"I wonder why God said<break time="2s"/> we should not eat that fruit,<break time="2s"/>
+" she said.<break time="1s"/>
+
+As Eve stood there,<break time="1.3s"/>
+she heard a<break time="2s"/> voice talking to her.<break time="2s"/>
+Who could it be? A snake with lovely wings<break time="2s"/> was resting on one of the branches of the tree.<break time="2s"/>
+A snake cannot talk,<break time="1.3s"/>
+but Satan was<break time="2s"/> talking through the snake.<break time="2s"/>

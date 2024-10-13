@@ -1,0 +1,11 @@
+How happy he was! He<break time="2s"/> liked to feel the soft cloth.<break time="2s"/>
+The bright colors<break time="2s"/> made him feel good.<break time="2s"/>
+Benjamin liked the coat,<break time="1.3s"/>
+too.<break time="0.5s"/>
+He smiled as<break time="2s"/> he touched the coat.<break time="2s"/>
+
+However,<break time="0.5s"/>
+the other brothers<break time="2s"/> were not happy.<break time="2s"/>
+“Why should Joseph wear the<break time="2s"/> coat of a prince?” they asked.<break time="2s"/>
+The brothers were<break time="2s"/> jealous of Joseph.<break time="2s"/>
+

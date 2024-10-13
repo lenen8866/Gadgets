@@ -1,0 +1,18 @@
+The king asked his wisemen<break time="2s"/> to make the frogs go away,<break time="2s"/>
+but they could<break time="2s"/> not do it.<break time="2s"/>
+
+Then Pharaoh called<break time="2s"/> for Moses to come.<break time="2s"/>
+He said,<break time="1s"/>
+"Pray to your God to<break time="2s"/> make the frogs go away.<break time="2s"/>
+Then I will<break time="2s"/> let your people go.<break time="2s"/>
+" Moses prayed.<break time="1s"/>
+All the frogs died.<break time="1.3s"/>
+However,<break time="0.5s"/>
+the king would not<break time="2s"/> let the people go.<break time="2s"/>
+
+Then more plagues came.<break time="1.3s"/>
+Many flies were<break time="2s"/> all over Egypt.<break time="2s"/>
+But the flies were not in<break time="2s"/> Goshen where the people of Israel lived.<break time="2s"/>
+
+There were ten<break time="2s"/> plagues in all.<break time="2s"/>
+The animals got<break time="2s"/> a bad sickness.<break time="2s"/>

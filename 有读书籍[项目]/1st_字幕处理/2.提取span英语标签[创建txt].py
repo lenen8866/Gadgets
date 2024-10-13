@@ -52,7 +52,7 @@ def process_all_html_files_in_directory(directory_path):
 # 这里很重要,一定要写对
 
 # 指定包含HTML文件的目录路径
-html_directory_path = '/Users/jianxinwei/Pycharm/书本朗读[英语]/holybible故事书/html/books/school/Growing_in_faith_and_charcter/list_html'
+html_directory_path = '/Users/jianxinwei/Github/text/books_mate/holybible故事书/html/books/school/Growing_in_faith_and_charcter/list_html'
 
 # 执行HTML文件的处理
 process_all_html_files_in_directory(html_directory_path)

@@ -1,0 +1,18 @@
+“Oh,<break time="0.5s"/>
+God,<break time="0.5s"/>
+please forgive me.<break time="1s"/>
+” God heard his prayer.<break time="1.8s"/>
+He cared for Moses<break time="2s"/> as he ran away.<break time="2s"/>
+
+Moses ran far<break time="2s"/> away from Egypt.<break time="2s"/>
+He came to<break time="2s"/> a place called Midian.<break time="2s"/>
+He was very tired,<break time="1.3s"/>
+so he sat down<break time="2s"/> to rest by a well.<break time="2s"/>
+
+Soon he saw seven young<break time="2s"/> ladies coming to the well.<break time="2s"/>
+They were bringing sheep to<break time="2s"/> the well to drink water.<break time="2s"/>
+Soon other shepherds came.<break time="1.3s"/>
+They pushed the girls away and started<break time="2s"/> to get water for their own sheep.<break time="2s"/>
+
+“Stop!” Moses told the shepherds.<break time="1.8s"/>
+“The ladies were here first.<break time="1.8s"/>

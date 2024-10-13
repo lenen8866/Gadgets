@@ -1,0 +1,18 @@
+As the sky got darker,<break time="1.8s"/>
+the cloud got brighter.<break time="1.3s"/>
+Soon it was<break time="2s"/> a pillar of fire.<break time="2s"/>
+There was light<break time="2s"/> in the camp.<break time="2s"/>
+It was not cold<break time="2s"/> and not dark anymore.<break time="2s"/>
+
+“What is it?”<break time="2s"/> the people asked.<break time="2s"/>
+
+Moses knew.<break time="1s"/>
+He told the people,<break time="1.3s"/>
+“God has put<break time="2s"/> the cloud there.<break time="2s"/>
+He will take<break time="2s"/> care of us.<break time="2s"/>
+He is our leader.<break time="1.3s"/>
+We will follow the cloud.<break time="1.8s"/>
+
+The next day the<break time="2s"/> cloud started to move.<break time="2s"/>
+The cloud gave shade from<break time="2s"/> the desert sun in the daytime.<break time="2s"/>
+Everyone packed up their tents<break time="2s"/> and food and followed the cloud.<break time="2s"/>

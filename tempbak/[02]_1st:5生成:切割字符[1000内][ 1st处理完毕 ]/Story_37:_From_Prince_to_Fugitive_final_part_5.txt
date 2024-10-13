@@ -1,0 +1,11 @@
+While Moses was taking<break time="2s"/> care of the sheep,<break time="2s"/>
+he prayed to God.<break time="1.3s"/>
+God was his teacher.<break time="1.3s"/>
+He learned to<break time="2s"/> be kind and patient.<break time="2s"/>
+He didn’t want to<break time="2s"/> be a soldier any more.<break time="2s"/>
+
+Moses married one<break time="2s"/> of Jethro’s daughters.<break time="2s"/>
+Her name was Zipporah.<break time="1.3s"/>
+They had two sons.<break time="1.3s"/>
+They were happy living<break time="2s"/> in the land of Midian.<break time="2s"/>
+

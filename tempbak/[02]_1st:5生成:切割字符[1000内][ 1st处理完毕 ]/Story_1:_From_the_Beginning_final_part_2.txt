@@ -1,0 +1,8 @@
+There is a<break time="2s"/> father and a mother.<break time="2s"/>
+And there are children.<break time="1.3s"/>
+
+God made many angels to<break time="2s"/> live with Him in heaven,<break time="2s"/>
+and to work with Him.<break time="1.8s"/>
+He made this world<break time="2s"/> and put people in it.<break time="2s"/>
+God wanted angels and<break time="2s"/> people to be His friends.<break time="2s"/>
+

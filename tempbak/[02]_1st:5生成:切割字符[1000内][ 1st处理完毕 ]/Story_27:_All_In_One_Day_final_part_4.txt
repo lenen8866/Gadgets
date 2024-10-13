@@ -1,0 +1,19 @@
+“Tell me!” shouted Pharaoh.<break time="1.3s"/>
+“Someone tell me what the<break time="2s"/> dreams mean!” No one said anything.<break time="2s"/>
+
+“Please tell me<break time="2s"/> what my dreams mean.<break time="2s"/>
+Is it good or<break time="2s"/> bad?” Pharaoh asked again.<break time="2s"/>
+No one answered.<break time="1s"/>
+
+
+
+The butler came to<break time="2s"/> bring Pharaoh a drink.<break time="2s"/>
+When he heard<break time="2s"/> about the king’s dreams,<break time="2s"/>
+
+He bowed low<break time="2s"/> before the king.<break time="2s"/>
+Then he told about<break time="2s"/> his dream in the prison.<break time="2s"/>
+He told about<break time="2s"/> the baker’s dream too.<break time="2s"/>
+And he told about Joseph.<break time="1.8s"/>
+“There was a<break time="2s"/> slave in the prison,<break time="2s"/>
+” he said.<break time="1s"/>
+“He told us<break time="2s"/> what our dreams meant,<break time="2s"/>

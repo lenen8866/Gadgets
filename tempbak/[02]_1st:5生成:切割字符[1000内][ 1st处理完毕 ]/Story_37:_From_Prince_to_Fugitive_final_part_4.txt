@@ -1,0 +1,23 @@
+” Then Moses helped the<break time="2s"/> girls give water to the sheep.<break time="2s"/>
+
+The girls said,<break time="1s"/>
+“Thank you,<break time="1s"/>
+” to Moses.<break time="1s"/>
+Then they went<break time="2s"/> home with their sheep.<break time="2s"/>
+
+Their father,<break time="1s"/>
+Jethro,<break time="0.5s"/>
+said,<break time="0.5s"/>
+
+When the girls told<break time="2s"/> their father about Moses,<break time="2s"/>
+he sent them<break time="2s"/> back to the well.<break time="2s"/>
+He said,<break time="1s"/>
+“Tell that nice man to<break time="2s"/> come and eat with us.<break time="2s"/>
+
+Moses came to<break time="2s"/> eat at Jethro’s house.<break time="2s"/>
+He slept there,<break time="1s"/>
+too.<break time="0.5s"/>
+Then he stayed at Jethro’s<break time="2s"/> house for a long time.<break time="2s"/>
+He took care<break time="2s"/> of Jethro’s sheep.<break time="2s"/>
+He was a shepherd.<break time="1.3s"/>
+

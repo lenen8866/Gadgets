@@ -1,0 +1,7 @@
+” The man began<break time="2s"/> to open the sacks.<break time="2s"/>
+How sad the brothers felt when<break time="2s"/> the cup was found in Benjamin’s sack.<break time="2s"/>
+Joseph’s servant told the<break time="2s"/> brothers they could go home.<break time="2s"/>
+Only Benjamin would<break time="2s"/> have to come back,<break time="2s"/>
+but all the<break time="2s"/> brothers went back.<break time="2s"/>
+They would not let<break time="2s"/> Benjamin go back alone.<break time="2s"/>
+

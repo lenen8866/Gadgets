@@ -1,0 +1,5 @@
+“There’s not much<break time="2s"/> to give you.<break time="2s"/>
+Jacob has been<break time="2s"/> given the blessing.<break time="2s"/>
+But I will give<break time="2s"/> you a smaller blessing.<break time="2s"/>
+” Then Isaac blessed Esau.<break time="1.8s"/>
+

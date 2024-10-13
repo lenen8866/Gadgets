@@ -1,0 +1,20 @@
+<break time="0.5s"/>“What a nice<break time="2s"/> baby!” the princess said.<break time="2s"/>
+She picked Moses up<break time="2s"/> and wiped away his tears.<break time="2s"/>
+“You must be one<break time="2s"/> of the Israelite babies,<break time="2s"/>
+” she said.<break time="1s"/>
+
+“The princess loves our baby,<break time="1.8s"/>
+too,<break time="0.5s"/>
+” Miriam thought as she<break time="2s"/> watched the princess hug the baby.<break time="2s"/>
+
+“What are you going to do<break time="2s"/> with him?” one of the maids asked.<break time="2s"/>
+
+“I’m going to keep him,<break time="1.8s"/>
+” said the princess.<break time="1.3s"/>
+“No one is going<break time="2s"/> to hurt this child.<break time="2s"/>
+
+“Her father is King Pharaoh,<break time="1.8s"/>
+” Miriam thought.<break time="1s"/>
+“He won’t like this baby.<break time="1.8s"/>
+
+Right then Miriam<break time="2s"/> knew what to do.<break time="2s"/>

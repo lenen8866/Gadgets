@@ -1,0 +1,15 @@
+<break time="0.5s"/>Jacob had a big family.<break time="1.8s"/>
+There were eleven<break time="2s"/> boys and one girl.<break time="2s"/>
+Joseph was the youngest.<break time="1.3s"/>
+They knew there would<break time="2s"/> be a new baby soon.<break time="2s"/>
+That made Joseph<break time="2s"/> feel very happy.<break time="2s"/>
+He would have<break time="2s"/> someone to play with.<break time="2s"/>
+Sometimes his older brothers<break time="2s"/> were not kind to him.<break time="2s"/>
+The family was travelling.<break time="1.3s"/>
+They were soon going<break time="2s"/> to see Grandfather Isaac.<break time="2s"/>
+They would live near him.<break time="1.8s"/>
+That’s where Father Jacob had lived<break time="2s"/> when he was a little boy.<break time="2s"/>
+
+First,<break time="0.5s"/>
+it was time to stop<break time="2s"/> at Bethel for a few days.<break time="2s"/>
+Joseph was very happy<break time="2s"/> to be at Bethel.<break time="2s"/>

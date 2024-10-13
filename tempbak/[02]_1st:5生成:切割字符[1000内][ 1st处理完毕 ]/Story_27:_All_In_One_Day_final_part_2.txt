@@ -1,0 +1,16 @@
+They were all<break time="2s"/> looking at Pharaoh.<break time="2s"/>
+They were thinking,<break time="1s"/>
+
+Pharaoh said,<break time="1s"/>
+“I had two<break time="2s"/> very strange dreams.<break time="2s"/>
+I cannot rest until<break time="2s"/> I know what they mean.<break time="2s"/>
+In my first dream I<break time="2s"/> was standing by the Nile River.<break time="2s"/>
+I saw seven cows<break time="2s"/> come out of the river.<break time="2s"/>
+They were nice fat cows.<break time="1.8s"/>
+
+“Then seven more<break time="2s"/> cows came out.<break time="2s"/>
+There have never been such<break time="2s"/> ugly cows in all Egypt.<break time="2s"/>
+They were so skinny that all<break time="2s"/> their bones seemed to be sticking out.<break time="2s"/>
+
+“Then a very<break time="2s"/> strange thing happened.<break time="2s"/>
+The skinny cows ate<break time="2s"/> up the fat cows.<break time="2s"/>

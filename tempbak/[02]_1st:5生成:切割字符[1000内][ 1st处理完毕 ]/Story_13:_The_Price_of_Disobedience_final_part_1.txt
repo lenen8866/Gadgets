@@ -1,0 +1,14 @@
+<break time="0.5s"/>After Adam and Eve ate the<break time="2s"/> fruit they began to feel afraid.<break time="2s"/>
+The clothes of light that<break time="2s"/> God had given them were gone.<break time="2s"/>
+That evening when God<break time="2s"/> came to the garden,<break time="2s"/>
+Adam and Eve tried<break time="2s"/> to hide in some bushes.<break time="2s"/>
+
+God called Adam and Eve.<break time="1.8s"/>
+He asked,<break time="1s"/>
+“Did you eat fruit from the forbidden tree?”<break time="2s"/> Adam told God that Eve made him do it.<break time="2s"/>
+Eve blamed the snake.<break time="1.3s"/>
+God was sad.<break time="1s"/>
+But He spoke<break time="2s"/> kindly to His children.<break time="2s"/>
+“You will have<break time="2s"/> to leave the garden.<break time="2s"/>
+You and all<break time="2s"/> living things will die.<break time="2s"/>
+” So Adam and Eve<break time="2s"/> sadly left their beautiful garden home.<break time="2s"/>

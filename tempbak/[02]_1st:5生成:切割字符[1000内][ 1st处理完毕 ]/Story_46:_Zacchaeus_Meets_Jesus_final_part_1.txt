@@ -1,0 +1,14 @@
+<break time="0.5s"/>Mr.<break time="0.5s"/>
+and Mrs.<break time="1s"/>
+Zacchaeus and their children lived in one of<break time="2s"/> the most beautiful houses in the city of Jericho.<break time="2s"/>
+Zacchaeus was rich but<break time="2s"/> he was not happy.<break time="2s"/>
+
+He was a tax collector<break time="2s"/> for the Roman rulers in Jericho.<break time="2s"/>
+He was a short man,<break time="1.8s"/>
+but his job made<break time="2s"/> him feel big and important.<break time="2s"/>
+
+For years he had made the<break time="2s"/> people pay too much money for taxes.<break time="2s"/>
+He kept the<break time="2s"/> extra money for himself.<break time="2s"/>
+Most tax collectors did that.<break time="1.8s"/>
+Some of the poor people had hardly<break time="2s"/> enough money left to buy food and clothes.<break time="2s"/>
+Zacchaeus got richer and richer,<break time="1.8s"/>

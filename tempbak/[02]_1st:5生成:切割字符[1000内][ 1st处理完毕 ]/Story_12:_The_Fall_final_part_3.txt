@@ -1,0 +1,21 @@
+It was very delicious.<break time="1.3s"/>
+Then Eve ate some more.<break time="1.8s"/>
+Eve took more fruit<break time="2s"/> and ran to find Adam.<break time="2s"/>
+She told him about<break time="2s"/> the snake that could talk.<break time="2s"/>
+"Oh,<break time="0.5s"/>
+Eve,<break time="0.5s"/>
+" Adam cried,<break time="1s"/>
+"That must be the enemy God<break time="2s"/> told us about! You have disobeyed God.<break time="2s"/>
+Oh,<break time="0.5s"/>
+Eve,<break time="0.5s"/>
+
+Adam loved his wife.<break time="1.3s"/>
+"She will soon die,<break time="1.3s"/>
+" he thought.<break time="1s"/>
+Should he obey God? "No,<break time="1.8s"/>
+" he decided.<break time="1s"/>
+"If Eve dies,<break time="1s"/>
+I will die with her.<break time="1.8s"/>
+" He took some<break time="2s"/> fruit and ate it quickly.<break time="2s"/>
+
+Satan and his<break time="2s"/> angels were happy.<break time="2s"/>

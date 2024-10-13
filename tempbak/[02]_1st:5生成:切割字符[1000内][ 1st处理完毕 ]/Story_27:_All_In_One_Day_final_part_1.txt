@@ -1,0 +1,16 @@
+<break time="0.5s"/>It was very<break time="2s"/> early in the morning.<break time="2s"/>
+Pharaoh,<break time="0.5s"/>
+the king of Egypt,<break time="1.3s"/>
+could not sleep.<break time="1s"/>
+He kept thinking of the<break time="2s"/> dreams he had just had.<break time="2s"/>
+What strange dreams! What could<break time="2s"/> they mean? He couldn’t sleep.<break time="2s"/>
+Better get up.<break time="1s"/>
+He would call his<break time="2s"/> wise men to the palace.<break time="2s"/>
+They would tell him<break time="2s"/> what these dreams meant.<break time="2s"/>
+
+“Bring all my wise men,<break time="1.8s"/>
+” he told his servants.<break time="1.8s"/>
+Horses galloped through the streets bringing<break time="2s"/> these important men to the palace.<break time="2s"/>
+
+Soon Pharaoh was<break time="2s"/> in his throne room.<break time="2s"/>
+His sleepy wise<break time="2s"/> men were there.<break time="2s"/>

@@ -1,0 +1,15 @@
+<break time="0.5s"/>Moses and Aaron went<break time="2s"/> to talk to Pharaoh again,<break time="2s"/>
+but the king<break time="2s"/> would not listen.<break time="2s"/>
+He would not<break time="2s"/> let the Israelites go.<break time="2s"/>
+Then some bad plagues came<break time="2s"/> to the people of Egypt.<break time="2s"/>
+First,<break time="0.5s"/>
+the Nile River<break time="2s"/> was turned to blood.<break time="2s"/>
+All the water<break time="2s"/> in Egypt became blood.<break time="2s"/>
+But Pharaoh would<break time="2s"/> not obey God.<break time="2s"/>
+He would not let<break time="2s"/> the people of Israel go.<break time="2s"/>
+
+Then God let more bad plagues<break time="2s"/> come to the people of Egypt.<break time="2s"/>
+Frogs were everywhere.<break time="1s"/>
+They came into the houses.<break time="1.8s"/>
+They were in the beds.<break time="1.8s"/>
+They were in the food.<break time="1.8s"/>

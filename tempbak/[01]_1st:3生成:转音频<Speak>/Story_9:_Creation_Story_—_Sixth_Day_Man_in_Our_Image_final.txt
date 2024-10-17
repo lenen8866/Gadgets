@@ -1,0 +1,24 @@
+<break time="0.5s"/>It was still<break time="2s"/> the sixth day.<break time="2s"/>
+Now it was time<break time="2s"/> for something very special.<break time="2s"/>
+God said,<break time="1s"/>
+"Let us make<break time="2s"/> man in our image.<break time="2s"/>
+" The first man was to<break time="2s"/> be made to look like God.<break time="2s"/>
+
+God kneeled down and created a man<break time="2s"/> out of the dust of the earth.<break time="2s"/>
+He made the head,<break time="1.3s"/>
+the body,<break time="1s"/>
+and the arms and legs.<break time="1.8s"/>
+Then came the most exciting thing!<break time="2s"/> God breathed air into man’s lungs,<break time="2s"/>
+and the man was alive.<break time="1.8s"/>
+He could walk<break time="2s"/> and talk and think.<break time="2s"/>
+He opened his eyes<break time="2s"/> and looked at his Creator.<break time="2s"/>
+God named the man Adam.<break time="1.8s"/>
+
+God showed Adam the animals.<break time="1.8s"/>
+He told Adam<break time="2s"/> to give them names.<break time="2s"/>
+
+God knew that Adam would be lonely<break time="2s"/> if he had only the animals for friends.<break time="2s"/>
+So God created a beautiful<break time="2s"/> woman to be with Adam.<break time="2s"/>
+Her name was Eve.<break time="1.3s"/>
+God dressed Adam and Eve<break time="2s"/> in lovely clothes of light.<break time="2s"/>
+Adam and Eve were to take care of<break time="2s"/> everything in the beautiful garden home—the Garden of Eden.<break time="2s"/>

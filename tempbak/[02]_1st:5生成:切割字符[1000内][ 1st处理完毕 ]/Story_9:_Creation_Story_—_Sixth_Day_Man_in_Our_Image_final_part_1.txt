@@ -1,0 +1,17 @@
+<break time="0.5s"/>It was still<break time="2s"/> the sixth day.<break time="2s"/>
+Now it was time<break time="2s"/> for something very special.<break time="2s"/>
+God said,<break time="1s"/>
+"Let us make<break time="2s"/> man in our image.<break time="2s"/>
+" The first man was to<break time="2s"/> be made to look like God.<break time="2s"/>
+
+God kneeled down and created a man<break time="2s"/> out of the dust of the earth.<break time="2s"/>
+He made the head,<break time="1.3s"/>
+the body,<break time="1s"/>
+and the arms and legs.<break time="1.8s"/>
+Then came the most exciting thing!<break time="2s"/> God breathed air into man’s lungs,<break time="2s"/>
+and the man was alive.<break time="1.8s"/>
+He could walk<break time="2s"/> and talk and think.<break time="2s"/>
+He opened his eyes<break time="2s"/> and looked at his Creator.<break time="2s"/>
+God named the man Adam.<break time="1.8s"/>
+
+God showed Adam the animals.<break time="1.8s"/>

@@ -1,0 +1,4 @@
+<break time="4s"/>Good Night <break time="4s"/>
+<break time="4s"/>Take Care <break time="4s"/>
+<break time="4s"/>Goodbye <break time="4s"/>
+<break time="4s"/>Farewell <break time="4s"/>

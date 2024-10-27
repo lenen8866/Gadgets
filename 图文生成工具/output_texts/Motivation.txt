@@ -1,0 +1,4 @@
+<break time="4s"/>Keep Going <break time="4s"/>
+<break time="4s"/>Stay Positive <break time="4s"/>
+<break time="4s"/>Never Give Up <break time="4s"/>
+<break time="4s"/>Dream Big <break time="4s"/>

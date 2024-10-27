@@ -1,0 +1,29 @@
+[
+    {
+        "title": {"en": "Greeting Card", "cn": "问候卡"},
+        "text_groups": [
+            ["Hello World", "你好，世界", "[həˈləʊ wɜːld]"],
+            ["Good Morning", "早上好", "[ɡʊd ˈmɔːnɪŋ]"],
+            ["Thank you", "谢谢", "[θæŋk juː]"],
+            ["See you", "再见", "[siː juː]"]
+        ]
+    },
+    {
+        "title": {"en": "Farewell Card", "cn": "告别卡"},
+        "text_groups": [
+            ["Good Night", "晚安", "[ɡʊd naɪt]"],
+            ["Take Care", "保重", "[teɪk keə]"],
+            ["Goodbye", "再见", "[ˌɡʊdˈbaɪ]"],
+            ["Farewell", "再会", "[ˈfeəwel]"]
+        ]
+    },
+    {
+        "title": {"en": "Motivation", "cn": "激励"},
+        "text_groups": [
+            ["Keep Going", "继续前行", "[kiːp ˈɡəʊɪŋ]"],
+            ["Stay Positive", "保持乐观", "[steɪ ˈpɒzətɪv]"],
+            ["Never Give Up", "永不放弃", "[ˈnevə ɡɪv ʌp]"],
+            ["Dream Big", "勇敢追梦", "[driːm bɪɡ]"]
+        ]
+    }
+]
